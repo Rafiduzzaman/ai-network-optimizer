@@ -41,7 +41,7 @@ ai-network-optimizer/
 
 ### 🔹 **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/ai-network-optimizer.git
+git clone https://github.com/Rafiduzzaman/ai-network-optimizer.git
 cd ai-network-optimizer
 ```
 
@@ -82,7 +82,7 @@ docker-compose up --build
 ---
 
 ## 👥 Contributors  
-🔹 **[Your Name](https://github.com/YOUR_GITHUB_USERNAME)**  
+🔹 **[Rafiduzzaman](https://github.com/Rafiduzzaman)**  
 
 ---
 
@@ -91,18 +91,9 @@ This project is licensed under **MIT License**. See [LICENSE](LICENSE) for detai
 
 ---
 
-## 🤝 Contributing  
-Want to contribute? Check out **[CONTRIBUTING.md](CONTRIBUTING.md)**.
-
----
-
-## 📜 Security Policy  
-For security guidelines, see **[SECURITY.md](SECURITY.md)**.
-
----
 
 ## 📬 Contact  
-📧 Reach out at `your-email@example.com`  
+📧 Reach out at `rdzaman20000@gmail.com`  
 ```
 
 ---
